@@ -1,4 +1,4 @@
-# Dockerized ReverseApp
+# ReverseApp Dockerized
 
 ***ReverseApp*** is an application made in **Java 11** and **Spring Boot** that is exposed on port **8080** and that I have put inside a **Docker** container.
 
